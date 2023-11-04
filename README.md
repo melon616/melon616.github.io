@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
   # Chirpy Jekyll Theme
 
@@ -91,4 +91,4 @@ This project is published under [MIT License][license].
 [lib]: https://github.com/cotes2020/chirpy-static-assets
 [jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
 [ko-fi]: https://ko-fi.com/coteschung/
-[donation]: https://sponsor.cotes.page/
+[donation]: https://sponsor.cotes.page/ -->
